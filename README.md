@@ -8,7 +8,9 @@ You will need to [sign up for an account](https://www.easypost.com/) to use this
 
 This goes in your `Gemfile`:
 
-   gem 'spree_easypost', github: 'radar/spree_easypost', branch: '2-0-stable'
+   `
+    gem 'spree_easypost', github: 'sifourteen/spree_easypost', branch: '2-0-stable'
+   `
 
 This goes in your terminal:
 
