@@ -14,10 +14,10 @@ This goes in your `Gemfile`:
 
 This goes in your terminal:
 
-   rake railties:install:migrations
-   rake db:migrate
+    rake railties:install:migrations
+    rake db:migrate
 
-This goes into a new file called `config/initializers/easy_post.rb`:
+This goes into a new file called: `config/initializers/easy_post.rb`:
 
     EasyPost.api_key = 'YOUR_API_KEY_HERE'
 
